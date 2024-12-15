@@ -7,7 +7,7 @@ This project investigates the root and causes of delays in the retirement of sta
 **Scope**
 The analysis covers:
 + Staffing
-+ Screening of staff wih thier files
++ Screening of staff with thier files
 
 **Methodology**
 + **Data collection:** Gathering logs, staffing data, and service records.
@@ -21,5 +21,5 @@ The data was provided by a client as hard copy files
 
 **Tools**
 + **Microsoft Excel:** Utilized fro preliminary data correction and initial review of the data set.
-+ **SQL Serveer:**
-+ 
++ **SQL Serveer:** Employed 
++ **Power BI:** 
