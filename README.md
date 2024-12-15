@@ -37,5 +37,10 @@ In this EDA phase, wer will examine the human resource dataset to address key op
 5.  Area of Coverage
     +    This accertain wether the staff due for retirement are relevant to the facility
 
-  
+These insights from EDA will contribute to optimizing workforce planning, improving fleet managment and enhancing the overall efficiency of work in the organization.
+---
+
+'''
+SQL
+
 
