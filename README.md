@@ -35,7 +35,7 @@ In this EDA phase, wer will examine the human resource dataset to address key op
 4.  Number of staff in a unit
     +    This determine whether to have new employees
 5.  Area of Coverage
-   +    This accertain wether the staff due for retirement are relevant to the facility
+    +    This accertain wether the staff due for retirement are relevant to the facility
 
   
 
