@@ -6,7 +6,7 @@ This project investigates the root and causes of delays in the retirement of sta
 
 **Scope**
 The analysis covers:
-Staffing
-Screening of staff wih thier files
++ Staffing
++ Screening of staff wih thier files
 
 **Methodology**
