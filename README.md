@@ -10,3 +10,16 @@ The analysis covers:
 + Screening of staff wih thier files
 
 **Methodology**
++ **Data collection:** Gathering logs, staffing data, and service records.
++ **Analysis:** Identifying delay trends and correlating with operational factors.
++ **Root Cause Analysis:** Diagnosing main delay contributors.
++ **Solution Proposal:** Recommending solution, such a process optimizing and resource allocation.
+
+---
+**Data Source**
+The data was provided by a client as hard copy files
+
+**Tools**
++ **Microsoft Excel:** Utilized fro preliminary data correction and initial review of the data set.
++ **SQL Serveer:**
++ 
