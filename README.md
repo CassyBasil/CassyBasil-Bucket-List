@@ -29,9 +29,9 @@ In this EDA phase, wer will examine the human resource dataset to address key op
 
 **Key Questions to Address:**
 1.  Total Number of Staff
-  +  Determine the number of staff available to cover the hospital
+  + Determine the number of staff available to cover the hospital
 2.  Years in service
   + Determine whether a staff is due for retirement
 3.  Number of staff in a unit
-  +
+  
 
