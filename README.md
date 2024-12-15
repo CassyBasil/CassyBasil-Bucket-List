@@ -33,6 +33,8 @@ In this EDA phase, wer will examine the human resource dataset to address key op
 3.  Years in service
     +  Determine whether a staff is due for retirement
 4.  Number of staff in a unit
+    +    This determine whether to do employment
+5.  
 
   
 
